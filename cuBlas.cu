@@ -3,7 +3,7 @@
 #include <math.h>
 #include <cuda.h>
 #include <sys/time.h>
-#include <cublas_v2.h>
+#include "cublas_v2.h"
 #include <cuda_runtime.h>
 
 #define SIZE 100
